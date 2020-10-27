@@ -4,7 +4,7 @@
 сумму.
 '''
 
-def matrixprint(matrix):
+def matrixprint(matrix): # создали функцию для вывода на печать
     for line in matrix:
         for j in range(len(line)):
             print('%3d' % (line[j]), end=' ')
@@ -22,15 +22,12 @@ if __name__ == '__main__':
             matrix.append(strTemp)
 
     sumArr = []
-    for line in range(len(matrix)):   # формируем список с суммами колонок
+    for line in range(len(matrix)):   # формируем список с суммами по колонокам
         checkSum = 0
         for j in range(len(matrix)):
             checkSum += matrix[j][line]
         sumArr.append(checkSum)
     print()
 
-    matrixprint(matrix)  # выводим все красиво на печать
-    print (' -- '*10)
-    for i in sumArr: print(i, end=' ')
-    print()
-    print('колонка с MAX суммой:',sumArr.index(max(sumArr))+1)
+
+
