@@ -29,5 +29,10 @@ if __name__ == '__main__':
         sumArr.append(checkSum)
     print()
 
+    matrixprint(matrix)  # выводим все красиво на печать
+    print (' -- '*10)
+    for i in sumArr: print(i, end=' ')
+    print()
+    print('колонка с MAX суммой:',sumArr.index(max(sumArr))+1)
 
 
