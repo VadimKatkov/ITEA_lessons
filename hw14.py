@@ -33,3 +33,5 @@ with open('story.txt', encoding='utf-8') as file:
         print()
         story.append(lane)
 print(len(story), 'строки')
+
+print("тут работает второй юзер!")
