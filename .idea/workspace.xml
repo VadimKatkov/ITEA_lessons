@@ -16,10 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a3c5de-5af2-4151-8369-63133100905e" name="Default Changelist" comment="">
+    <list default="true" id="e5a3c5de-5af2-4151-8369-63133100905e" name="Default Changelist" comment="started new brench for second user">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw13.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw14.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonLessons" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -60,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603812905893</updated>
     </task>
+    <task id="LOCAL-00001" summary="started new brench for second user">
+      <created>1603814966687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603814966687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +90,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started new brench for second user" />
+    <option name="LAST_COMMIT_MESSAGE" value="started new brench for second user" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="959" y="278" key="FileChooserDialogImpl" timestamp="1603818719724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603818719724" />
   </component>
 </project>
